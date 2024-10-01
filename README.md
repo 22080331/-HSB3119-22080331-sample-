@@ -3,4 +3,4 @@ hhahaha
 heiehe
 hihihihi
 lallalaa
-![](images/0026.JPG)
+![](IMG_0026.JPG)
